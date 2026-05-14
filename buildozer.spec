@@ -5,7 +5,7 @@ package.domain = org.hassan
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3, kivy==2.3.0, kivymd, pymupdf, rapidfuzz, pillow, setuptools
+requirements = python3,kivy,flet,pymupdf,pillow
 
 orientation = portrait
 fullscreen = 0
